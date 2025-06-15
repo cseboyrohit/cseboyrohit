@@ -1,23 +1,99 @@
-<h1 align="center">Hi 👋, I'm [ʀᴏʜɪᴛ ᴋᴜᴍᴀʀ]</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# 👋 Hi, I'm Shreeya Srivastava (@shreesriv12)
 
-- 🌱 I’m currently learning **"Mastering Java DSA, ready to tackle real-world challenges.**
+🎓 **Undergraduate at MNNIT Allahabad**, pursuing B.Tech in **Computer Science & Engineering**  
+🔧 Passionate about **Competitive Programming, Machine Learning, and Full-Stack Development**
 
-- 📫 How to reach me **rohit887335@gmail.com**
+---
 
-- ⚡ Fun fact **I am Funny😎**
+## 🔥 Code | Optimize | Innovate
+> Bridging Logic with Technology 🚀  
+> Turning Ideas into Code | Exploring DSA, CP, ML & Web Dev
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/i__m___rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__m___rohit" height="30" width="40" /></a>
-</p>
+🖥️ **Portfolio** 👉 [View My Website](https://portfolio-nine-ivory-94.vercel.app/)  
+📫 **Reach Me**: shreeyasrivastava1124@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cseboyrohit&show_icons=true&locale=en&layout=compact" alt="cseboyrohit" /></p>
+## 👩‍💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cseboyrohit&show_icons=true&locale=en" alt="cseboyrohit" /></p>
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseboyrohit&" alt="cseboyrohit" /></p>
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino) 
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)  
+
+---
+
+## 🚀 Projects
+
+### 🤖 Machine Learning & AI
+- 🎬 **[Movie Recommender System](https://github.com/shreesriv12/movie-recommender-system)**  
+  ML-based system using NLP for movie similarity and recommendation.
+
+- 🌾 **[Crop Prediction Model](https://github.com/shreesriv12/crop-prediction-model)**  
+  Predicts the most suitable crop based on environmental parameters.
+
+- ✋ **[Hand Tracking Module](https://github.com/shreesriv12/Hand-Tracking-module)**  
+  Real-time hand detection using OpenCV + MediaPipe.
+
+- 📺 **[YouTube ChatBot (Langchain)](https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain)**  
+  Chrome extension + AI backend for asking contextual questions about YouTube videos.
+
+---
+
+### 🌐 Web Development
+- 📚 **[Assignify - DevJam Group Project](https://github.com/CoderFleet/DevJam)**  
+  Platform to manage assignments, deadlines, and collaboration.
+
+- 💊 **[MediConnect - Solo Project](https://github.com/shreesriv12/MediConnect)**  
+  Connects doctors and patients with real-time appointment and health support.
+
+---
+
+## 📊 GitHub Stats
+
+![Shreesriv12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreesriv12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreesriv12&layout=compact&theme=radical)
+
+---
+
+## 🎯 Competitive Programming
+
+- ⚔️ **Codeforces**: [Profile](https://codeforces.com/profile/yourusername)  
+- 💡 **LeetCode**: [Profile](https://leetcode.com/yourusername)  
+- 🍳 **CodeChef**: [Profile](https://www.codechef.com/users/yourusername)  
+
+(Replace `yourusername` with your actual profile links)
+
+---
+
+## 🌸 Anime Vibes
+
+> *"The world isn't perfect. But it's there for us, trying the best it can. That's what makes it so damn beautiful."* – Roy Mustang  
+> 💻 Coding powered by Anime Spirit & Determination
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreeya_srivastava_48c156)  
+GitHub: [shreesriv12](https://github.com/shreesriv12)
+
+---
+
+Thanks for visiting my profile!  
+**Happy Coding! 💻 With Anime Spirit ✨**
+
