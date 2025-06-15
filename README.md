@@ -1,69 +1,8 @@
-# 👋 Hi, I'm Rohit Kumar
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🎓 **Aspiring Software Engineer** | **Full Stack Developer** | **B.Tech CSE Student**  
-🧠 A highly motivated and creative **2nd-year CSE student** at **Swami Vivekanand Subharti University**, with a strong foundation in full-stack development and a passion for building innovative solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🔹 About Me
-
-🚀 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
-📚 Passionate about problem-solving and dedicated to continuous learning in the ever-evolving world of software development.  
-🎯 Actively working on personal projects, and keeping up with the latest tech trends to enhance my skills.
-
----
-
-## 💼 Technical Skills
-
-### 💻 Programming
-- Java
-- C#
-- JavaScript
-- C
-
-### 🌐 Web Development
-- HTML5, CSS3, JavaScript
-- TailwindCSS
-- ASP.NET MVC
-- Currently exploring MERN Stack
-
-### 🛠 Tools & Technologies
-- Git & GitHub
-- Visual Studio, IntelliJ IDEA, NetBeans
-- MySQL Database
-
----
-
-## 📜 Certifications
-
-🏅 **TCS iON & NPTEL** – Robotics  
-🏅 **NPTEL** – Soft Skills Certification
-
----
-
-## 📈 GitHub Stats
-
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkumar-github&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar-github&layout=compact&theme=tokyonight)
-
-> *(Change `rohitkumar-github` with your actual GitHub username to make these work)*
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **rohit.yourmail@example.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🧰 Portfolio: *Coming Soon*
-
----
-
-### 🧠 Quote That Drives Me
-
-> "Stay hungry, stay foolish." – *Steve Jobs*
-
----
-
-Thanks for visiting my GitHub! 😊  
-**Happy Coding!**
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/fdsgdfg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fdsgdfg" /></a><a href="https://ko-fi.com/fgfdgd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fgfdgd" /></a></p><br><br>
