@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+🌱 I’m currently learning:<br>
+→ .NET, Data Structures & Algorithms, and building scalable backend systems.<br><br>
+💬 Ask me about:<br>
+→ Java, C#, JavaScript, MongoDB, ASP.NET, DSA, Git, and productivity tips for coders!<br><br>
+⚡ Fun fact:<br>
+→ I code best when anime is playing in the background – Naruto mode ON! 🌀
 
 
 ## 🌐 Socials:
