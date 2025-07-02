@@ -5,7 +5,7 @@
 💬 Ask me about:<br>
 → Java, C#, JavaScript, MongoDB, ASP.NET, DSA, Git, and productivity tips for coders!<br><br>
 ⚡ Fun fact:<br>
-→ I code best when anime is playing in the background – Naruto mode ON! 🌀
+→ I code best when anime is playing in the background – Naruto mode ON! 
 
 
 ## 🌐 Socials:
