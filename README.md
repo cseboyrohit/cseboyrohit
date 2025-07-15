@@ -8,7 +8,7 @@
 → I code best when anime is playing in the background – Naruto mode ON! 
 
 
-## 🌐 Socials:
+##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohitkr8873/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@6204323272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit887335@gmail.com) 
 
 # 💻 Tech Stack:
